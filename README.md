@@ -1,4 +1,25 @@
-# transcendence_42
+# **42.ft_transcendence**
+
+
+Run:
+----
+- game runs using the 42 The Network OAuth and thus existing accounts (authorization set up does not allow external accounts to be created)
+- set up the necessary environment variables in an .env file in the root folder (as a security measure .env files do not get uploaded to git repositories) 
+- run: *docker-compose up --build* while in the root folder
+- find the game at the chosen web address  
+-------------------------------------------------------------------
+
+[42 The Network](https://www.42network.org/) Assignment:
+-----------
+
+A single page website running a [pong game](https://www.ponggame.org/) app featuring real-time multiplayers synced on several clients. Game, players profiles and a live chat.   
+
+---
+- Full Stack project using: 
+NestJS, TypeScript, React, PostgreSQL, Docker-compose, Security, Authentication, OAuth, JWT Tokens
+
+-------------------------------------------------------------------
+
 
 <details>
 <summary>Backend</summary>
