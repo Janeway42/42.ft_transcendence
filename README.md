@@ -19,6 +19,14 @@ A single page website running a [pong game](https://www.ponggame.org/) app featu
 NestJS, TypeScript, React, PostgreSQL, Docker-compose, Security, Authentication, OAuth, JWT Tokens
 
 -------------------------------------------------------------------
+<p align="center"><b>
+The Unfriendly Ping Pong
+</b></p>
+
+
+![ping pong 1](https://github.com/Janeway42/42.ft_transcendence/assets/73645395/a983ebd5-ce19-4001-b804-1f6150c790dd)
+
+![ping pong 2](https://github.com/Janeway42/42.ft_transcendence/assets/73645395/293dd0e6-d12a-40ec-93e2-569a9a9edcf9)
 
 
 <details>
